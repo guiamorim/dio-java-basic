@@ -1,2 +1,2 @@
 # dio-java-basic
-Repository related to the Bootcamp sponsored by DIO
+Repository to strore the code related to the class Java Basic sponsored by DIO
